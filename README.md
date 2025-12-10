@@ -75,7 +75,7 @@ Full wave rectifier:
 <img width="1016" height="810" alt="Screenshot 2025-12-10 161508" src="https://github.com/user-attachments/assets/0c3b1319-a71f-456d-8e90-d9292240eeaa" />
 
 WAVEFORM:
-<img width="755" height="395" alt="Screenshot 2025-12-10 161454" src="https://github.com/user-attachments/assets/27718eae-81ce-4a2f-8eb0-9821378bceda" />
+<img width="753" height="396" alt="image" src="https://github.com/user-attachments/assets/ab76847f-0e42-4d5b-997b-0774fa5dab03" />
 
 TABULAR COLUMN
 
