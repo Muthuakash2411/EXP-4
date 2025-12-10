@@ -44,7 +44,32 @@ WAVEFORM:
 <img width="757" height="397" alt="half_graph" src="https://github.com/user-attachments/assets/27b1ad15-e558-4ff8-9482-5d5b662f97b0" />
 
 TABULAR COLUMN
-<img width="1292" height="260" alt="image" src="https://github.com/user-attachments/assets/77449862-144e-4676-80be-95fd27cfb9fc" />
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>20</td>
+    <td>100</td>
+    <td>10</td>
+    <td>100, 5V</td>
+    <td>5 ms, 25 ms</td>
+  </tr>
+</table>
 
 Full wave rectifier:
 <img width="1016" height="810" alt="Screenshot 2025-12-10 161508" src="https://github.com/user-attachments/assets/0c3b1319-a71f-456d-8e90-d9292240eeaa" />
