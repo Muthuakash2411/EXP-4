@@ -66,7 +66,7 @@ TABULAR COLUMN
     <td>20</td>
     <td>100</td>
     <td>10</td>
-    <td>100, 5V</td>
+    <td>100V, 5V</td>
     <td>5 ms, 25 ms</td>
   </tr>
 </table>
